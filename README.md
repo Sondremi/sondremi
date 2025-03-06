@@ -1,18 +1,9 @@
-## Hi there 👋
+## Hi there 👋  
 
-#### My most used programming languages
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sondremi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I'm Sondre, a student at the University of Oslo  
 
-<!--
-**Sondremi/sondremi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 My most used programming languages  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sondremi&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Get in Touch  
+Feel free to connect or check out my projects!  
