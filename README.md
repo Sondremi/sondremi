@@ -18,7 +18,7 @@
 - 💼 Full-stack developer at **[@hoopit](https://github.com/hoopit)** — mobile, web & backend
 
 ---
-
+<!--
 ### 🛠️ Tech Stack
 
 **Languages**
@@ -62,7 +62,7 @@
 ![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
-
+-->
 ### 🎧 Currently Listening
 
 <p align="center">
