@@ -76,8 +76,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Sondremi&theme=tokyonight&hide_border=true" alt="streak" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sondremi&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="top langs" />
+  <img height="150" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Sondremi&layout=compact&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="150" src="https://streak-stats.demolab.com/?user=Sondremi&theme=tokyonight&hide_border=true" alt="streak" />
 </p>
 
 <p align="center">
