@@ -15,7 +15,7 @@
 ### 👨‍💻 About me
 
 - 🎓 Computer Science student at the **University of Oslo**
-- 💼 Full-stack developer at **[@hoopit](https://github.com/hoopit)** — mobile, web & backend
+- 💼 Full-stack developer at **[hoopit](https://github.com/hoopit)** — mobile, web & backend
 
 ---
 <!--
@@ -63,6 +63,7 @@
 
 ---
 -->
+
 ### 🎧 Currently Listening
 
 <p align="center">
@@ -81,9 +82,10 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy-pi-woad.vercel.app/?username=Sondremi&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="trophies" />
+  <img src="https://github-profile-trophy-pi-woad.vercel.app/?username=Sondremi&theme=tokyonight&no-frame=true&column=9&margin-w=8" alt="trophies" />
 </p>
 
+<!--
 ---
 
 ### 📈 Contribution Graph
@@ -99,3 +101,4 @@
     <img alt="snake animation" src="https://raw.githubusercontent.com/Sondremi/Sondremi/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
+-->
